@@ -7,6 +7,6 @@ This project aims to create a machine learning model for anemia diagnosis. Using
 
 Installing libraries is necessary for the project to function.
 ```ipynb
-!pip install seaborn
+pip install seaborn
 ```
 

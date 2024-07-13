@@ -7,6 +7,10 @@ This project aims to create a machine learning model for anemia diagnosis. Using
 
 Installing libraries is necessary for the project to function.
 ```py
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
 !pip install seaborn
+!pip install scikit-learn
 ```
 

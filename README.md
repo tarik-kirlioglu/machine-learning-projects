@@ -4,7 +4,7 @@ Welcome to my Machine Learning Projects repository! This repository contains var
 
 ## Table of Contents
 - [Projects](#projects)
-  - [Project 1: 01_Anemia_Diagnosis_Prediction](#01_anemia_diagnosis_prediction) (https://github.com/tarik-kirlioglu/machine-learning-projects/tree/main/01_Anemia_Diagnosis_Prediction)
+  - [Project 1: 01_Anemia_Diagnosis_Prediction](#01_anemia_diagnosis_prediction) [GitHub] (https://github.com/tarik-kirlioglu/machine-learning-projects/tree/main/01_Anemia_Diagnosis_Prediction)
   - [Project 2: 02_Lung_Cancer_Prediction](#02_lung_cancer_prediction) (https://github.com/tarik-kirlioglu/machine-learning-projects/tree/main/02_Lung_Cancer_Prediction)
 
 ## Installation

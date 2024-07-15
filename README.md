@@ -18,4 +18,4 @@ cd machine-learning-projects
 Contributions are welcome! Feel free to fork this repository and submit pull requests. You are more than welcome to add to, fix, edit, and enhance this repository.
 
 ## Contact
-If you have any questions or suggestions please feel free to contact us (tarik.kirliogllu@gmail.com).
+If you have any questions or suggestions please feel free to contact me (tarik.kirliogllu@gmail.com).

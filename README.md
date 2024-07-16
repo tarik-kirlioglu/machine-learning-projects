@@ -8,7 +8,7 @@ Welcome to my Machine Learning Projects repository! This repository contains var
   - [Project 2: 02_Lung_Cancer_Prediction](#02_lung_cancer_prediction)
 
 ## Installation
-To run these projects, you need to have Python installed. You can clone this repository and install the required dependencies using the following commands:
+To run these projects, you need to have Python installed. You can clone this repository:
 
 ```bash
 git clone https://github.com/tarik-kirlioglu/machine-learning-projects.git

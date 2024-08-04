@@ -5,8 +5,8 @@ Welcome to my Machine Learning Projects repository! This repository contains var
 ## Table of Contents
 - [Projects](#projects)
   - [Project 1: 01_Anemia_Diagnosis_Prediction](https://github.com/tarik-kirlioglu/machine-learning-projects/blob/main/01_Anemia_Diagnosis_Prediction/01_Anemia_Diagnosis_Prediction.ipynb)
-  - [Project 2: 02_Lung_Cancer_Prediction](#02_lung_cancer_prediction)
-  - [Project 3: 03_Heart_Disease_Prediction](#02_heart_disease_prediction)
+  - [Project 2: 02_Lung_Cancer_Prediction](https://github.com/tarik-kirlioglu/machine-learning-projects/blob/main/02_Lung_Cancer_Prediction/02_Lung_Cancer_Prediction.ipynb)
+  - [Project 3: 03_Heart_Disease_Prediction](https://github.com/tarik-kirlioglu/machine-learning-projects/blob/main/03_Heart_Disease_Prediction/03_Heart_Disease_Prediction.ipynb)
 
 ## Installation
 To run these projects, you need to have Python installed. You can clone this repository:

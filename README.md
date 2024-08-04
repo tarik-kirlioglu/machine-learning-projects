@@ -6,6 +6,7 @@ Welcome to my Machine Learning Projects repository! This repository contains var
 - [Projects](#projects)
   - [Project 1: 01_Anemia_Diagnosis_Prediction](#01_anemia_diagnosis_prediction)
   - [Project 2: 02_Lung_Cancer_Prediction](#02_lung_cancer_prediction)
+  - [Project 3: 03_Heart_Disease_Prediction](#02_heart_disease_prediction)
 
 ## Installation
 To run these projects, you need to have Python installed. You can clone this repository:
